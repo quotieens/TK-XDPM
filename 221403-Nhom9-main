@@ -1,7 +1,0 @@
-echo "# TK-XDPM-Nhom9" >> README.md 
-git init 
-git add README.md 
-git commit -m "lần cam kết đầu tiên" 
-git nhánh -M main 
-git remote add origin https://github.com/quotieens/TK-XDPM-Nhom9.git
- git push -u origin main
